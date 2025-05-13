@@ -1,7 +1,5 @@
 Instructions for ICBP 2.0 Project - "ReAct Agent- The Smartest AI Nutrition Assistant" 
 
-***Check Product 
-https://eduneticbp.streamlit.app/
 
 ***Github link 
 https://github.com/YogeshRaje/ICBP2.0.git
@@ -15,6 +13,8 @@ https://github.com/YogeshRaje/ICBP2.0.git
 2) Give me a 2 day veg diet plan.
 
  ***Sample Image + Prompts 
+
+3) My weight is 91 kg and height is 182 cm . I don't have any allergy. Suggest me the nutrition plan.
 
 1) Image URL- Veg breakfast 
 https://www.eatingwell.com/thmb/ZyQsAJHTFLZ0pW8cCd9DrDg6J0o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scrambled-egg-with-tofu-07-Hero-b2f4cdec2d86416b9669d98dce8817cf.jpg
