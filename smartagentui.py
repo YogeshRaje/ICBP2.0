@@ -69,7 +69,7 @@ if st.button(" Submit"):
                 st.markdown(f"<pre>{extracted}</pre>", unsafe_allow_html=True)
 
             except ValueError:
-                st.error("❌ Could not parse response as JSON.")
+                st.error("Could not parse response as JSON.")
                 st.text(response_scoring.text)
             except Exception as e:
                 st.error(f"Unexpected error: {e}")
