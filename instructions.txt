@@ -7,14 +7,14 @@ https://github.com/YogeshRaje/ICBP2.0.git
 
 ***Sample Prompts - 
 
-1)I'm looking to lose 5 pounds in the next month. I prefer a Mediterranean diet, and I have a busy schedule. Please provide me with a weekly meal plan, including recipes that I can prepare in 30 minutes or less.
+1)My weight is 91 kg and height is 182 cm . I don't have any allergy. Suggest me the nutrition plan.
 
 
 2) Give me a 2 day veg diet plan.
 
  ***Sample Image + Prompts 
 
-3) My weight is 91 kg and height is 182 cm . I don't have any allergy. Suggest me the nutrition plan.
+3) I'm looking to lose 5 pounds in the next month. I prefer a Mediterranean diet, and I have a busy schedule. Please provide me with a weekly meal plan, including recipes that I can prepare in 30 minutes or less.
 
 1) Image URL- Veg breakfast 
 https://www.eatingwell.com/thmb/ZyQsAJHTFLZ0pW8cCd9DrDg6J0o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scrambled-egg-with-tofu-07-Hero-b2f4cdec2d86416b9669d98dce8817cf.jpg
@@ -26,4 +26,7 @@ give nutrition of image
 2) Image URL- https://www.eatingwell.com/thmb/YwNw19g19tS31P21KvIBFo1mVFk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg
 Prompt-
 give contextual explanations of image
+
+***Sample prompt for RAG based query
+1) How is the calory in Cornstarch
 
