@@ -10,7 +10,7 @@ mltoken = token_response.json()["access_token"]
  
 header = {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + mltoken}
  
-content = "Give me 2 days veg diet plan."
+content = "My weight is 91 kg and height is 182 cm . I don't have any allergy. Suggest me the nutrition plan."
 role = "user"
  
 payload_scoring = {
