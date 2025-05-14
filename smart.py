@@ -1,6 +1,6 @@
 import requests
  
-API_KEY = "LTxz3YZ5y_6Hv1nyPvrgUqzawDSlEjUgNkcxQJJuRbwE"
+API_KEY = "Paste_Your_IBMAPIKEY"
  
 token_response = requests.post(
     'https://iam.cloud.ibm.com/identity/token', 
